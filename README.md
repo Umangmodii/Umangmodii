@@ -1,5 +1,4 @@
-Hi 👋, I'm Amit Yadav
-A passionate Competitive programmer || frontend developer from India
+Hi 👋, I'm Umang Modi
 Coding
 
 Umangmodii
