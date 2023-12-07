@@ -1,9 +1,8 @@
 Hi 👋, I'm Umang Modi
-Coding
 
-Umangmodii
+https://github.com/Umangmodii
 
-@https://www.linkedin.com/in/umangmodi123/
+https://www.linkedin.com/in/umangmodi123/
 
 🌱 I’m currently learning Laravel PHP
 
