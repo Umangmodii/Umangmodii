@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋, I'm Amit Yadav
+A passionate Competitive programmer || frontend developer from India
+Coding
 
-<!--
-**Umangmodii/Umangmodii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Umangmodii
 
-Here are some ideas to get you started:
+@https://www.linkedin.com/in/umangmodi123/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Laravel PHP
+
+💬 Ask me about Html CSS Js Jquery 
+
+📫 How to reach me techwebumang003@gmail.com
+
+⚡ Fun fact I love Reading
+
+Connect with me:
+https://www.instagram.com/codewithumang/
+
+Languages and Tools:
+angular bootstrap c cplusplus css3 html5 java javascript mongodb mysql nodejs python react
