@@ -1,12 +1,37 @@
 Hi 👋, I'm Umang Modi
 
-#Html #Css #Bootstrap #Core PHP #Laravel PHP #Ajax #C #C++ Language #Java #PHP Core #MYSQL
+Frontend Skill : Html, Css, Javascript, Ajax ReactJs
+Backend Skill : PHP Framework In Laravel PHP
+Database Skill : I all database can be worked with Oracle (SQL), MySql, PostgreSQL, MongoDB etc.
 
 I Have completed 15+ Websites Host | 1. E-Commerce Project | 2.Collage Web Portal Project | 3. Two Application
 
 28+ Course Certificate.
 
 15+ Websites Host
+
+.
+.
+HackerRank
+---------------
+Java : 25+ Problem Solve
+SQL : 40+ Problem Solve
+DSA : 10+ Problem Solve
+.
+.
+Leetcode
+---------------
+Javascript : 20+ Problem Solve
+SQL : 14+ Problem Solve
+.
+.
+CodeChef
+---------------
+C : Beginner (Completed All Questions)
+C++ : Beginner (Completed All Questions)
+Java : Beginner (Completed All Questions)
+.
+.
 
 https://github.com/Umangmodii
 
