@@ -10,28 +10,22 @@ I Have completed 15+ Websites Host | 1. E-Commerce Project | 2.Collage Web Porta
 
 15+ Websites Host
 
-.
-.
 HackerRank
 ---------------
 Java : 25+ Problem Solve
 SQL : 40+ Problem Solve
 DSA : 10+ Problem Solve
-.
-.
+
 Leetcode
 ---------------
 Javascript : 20+ Problem Solve
 SQL : 14+ Problem Solve
-.
-.
+
 CodeChef
 ---------------
 C : Beginner (Completed All Questions)
 C++ : Beginner (Completed All Questions)
 Java : Beginner (Completed All Questions)
-.
-.
 
 https://github.com/Umangmodii
 
