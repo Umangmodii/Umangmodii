@@ -28,7 +28,7 @@ C++ : 35+ Problem Solve
 
 GFG (Geeks For Geeks)
 ----------------------
-C++ : 10+ Problem Solve
+DSA : 10+ Problem Solve
 
 CodeChef
 ---------------
