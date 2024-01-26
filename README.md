@@ -1,6 +1,6 @@
 Hi 👋, I'm Umang Modi
 
-Frontend Skill : Html, Css, Javascript, Ajax ReactJs
+Frontend Skill : Html, bootstrap, Javascript, ReactJs
 Backend Skill : PHP Framework In Laravel PHP
 Database Skill : I all database can be worked with Oracle (SQL), MySql, PostgreSQL, MongoDB etc.
 
@@ -20,6 +20,15 @@ Leetcode
 ---------------
 Javascript : 20+ Problem Solve
 SQL : 14+ Problem Solve
+C++ : 20+ Problem Solve
+
+Coding Ninjas
+----------------
+C++ : 35+ Problem Solve
+
+GFG (Geeks For Geeks)
+----------------------
+C++ : 10+ Problem Solve
 
 CodeChef
 ---------------
