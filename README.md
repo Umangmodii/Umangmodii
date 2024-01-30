@@ -4,7 +4,11 @@ Frontend Skill : Html, bootstrap, Javascript, ReactJs
 Backend Skill : PHP Framework In Laravel PHP
 Database Skill : I all database can be worked with Oracle (SQL), MySql, PostgreSQL, MongoDB etc.
 
-I Have completed 15+ Websites Host | 1. E-Commerce Project | 2.Collage Web Portal Project | 3. Two Application
+I Have completed 15+ Websites Host :
+
+  1. E-Commerce Project |
+  2. Collage Web Portal Project |
+  3. Two Application
 
 28+ Course Certificate.
 
