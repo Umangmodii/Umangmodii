@@ -25,14 +25,15 @@ Leetcode
 Javascript : 20+ Problem Solve
 SQL : 14+ Problem Solve
 C++ : 20+ Problem Solve
+CPP/DSA : 10+ Problem Solve
 
 Coding Ninjas
 ----------------
-C++ : 35+ Problem Solve
+C++ : 35+ Problem Solve (1st Rank)
 
 GFG (Geeks For Geeks)
 ----------------------
-DSA : 10+ Problem Solve
+CPP/DSA : 10+ Problem Solve
 
 CodeChef
 ---------------
@@ -46,7 +47,7 @@ https://www.linkedin.com/in/umangmodi123/
 
 🌱 I’m currently learning Laravel PHP
 
-💬 Ask me about Html CSS Js Jquery 
+💬 Ask me about Html Bootstrap Js  
 
 📫 How to reach me techwebumang003@gmail.com
 
