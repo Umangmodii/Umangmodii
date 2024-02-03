@@ -34,6 +34,7 @@ C++ : 35+ Problem Solve (1st Rank)
 GFG (Geeks For Geeks)
 ----------------------
 CPP/DSA : 10+ Problem Solve
+College Institution : 7th Rank 
 
 CodeChef
 ---------------
