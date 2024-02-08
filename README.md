@@ -10,7 +10,7 @@ I Have completed 15+ Websites Host :
   2. Collage Web Portal Project |
   3. Two Application
 
-30+ Course Certificate.
+35+ Course Certificate.
 
 15+ Websites Host
 
