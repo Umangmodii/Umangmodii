@@ -60,4 +60,23 @@ https://www.instagram.com/codewithumang/
 Languages and Tools:
 Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef Problem Solving || Javascript | ReactJS | AngularJS || Laravel PHP || MVC || Oracle | MySql | PostgreSQL | MongoDB || DS || Github | Git || DSA With CPP || Python
 
+🚀 Languages and Tools:
+                   
 
+📝 PROJECT's ZONE (Working on 30+ Persional Projects)
+Project Row I	Project Row II
+🌐 MyCodingProfiles 🔗	🌐 Shorting Algorithm Website 🔗
+🌐 MYWebResume 🔗	🌐 Animated My DSA Profiles Circle 🔗
+🌐 ADVANCED-BINARY-CALCULATOR 🔗	🌐 ChessBoard 🔗
+🌐 MY-AI-ASSISTANT 🔗	🌐 My Resume Clone 🔗
+🌐 Sorting-Algorithms-With-GUI 🔗	🌐 MyCertificatesGallary 🔗
+🌐 Get-System-Information 🔗	🌐 My DSA Journey WebSite 🔗
+🌐 Increment Decrement Calculator 🔗	🌐 Share Modal 🔗
+🌐 ToDo-List-GUI-Python 🔗	🌐 Tick-Tak-Too Game 🔗
+🌐 Portfolio 🔗	🌐 Modern DSA Profile Sharing 🔗
+🌐 Tick-Tack-Too Game using Dev 🔗	🌐 RazorpayClone WebSite 🔗
+🌐 Discord Clone 🔗	🌐 DSAwithPrinceSingh 🔗
+🌐 GitHub Profile Finder 🔗	🌐 Check Weather App 🔗
+🌐 CORESubjectsWithME 🔗	🌐 CPU SCHEDULING ALGORITHM VISUALISER 🔗
+🌐 MeraCodeEditor 🔗	🌐 Cardiac Care With Virtual Cardiologist (CCVC) 🔗
+🌐 75DaysHardPlacementChallenge 🔗
