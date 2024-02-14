@@ -1,5 +1,5 @@
 Hi 👋, I'm Umang Modi
-
+<hr/>
 Frontend Skill : Html, bootstrap, Javascript, ReactJs
 Backend Skill : PHP Framework In Laravel PHP
 Database Skill : I all database can be worked with Oracle (SQL), MySql, PostgreSQL, MongoDB etc.
