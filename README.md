@@ -17,14 +17,19 @@ I Have completed 15+ Websites Host :
 HackerRank
 ---------------
 Java : 25+ Problem Solve
+<br/>
 SQL : 40+ Problem Solve
+<br/>
 DSA : 10+ Problem Solve
 
 Leetcode
 ---------------
 Javascript : 20+ Problem Solve
+<br/>
 SQL : 14+ Problem Solve
+<br/>
 C++ : 20+ Problem Solve
+<br/>
 CPP/DSA : 10+ Problem Solve
 
 Coding Ninjas
@@ -34,12 +39,15 @@ C++ : 35+ Problem Solve (1st Rank)
 GFG (Geeks For Geeks)
 ----------------------
 CPP/DSA : 10+ Problem Solve
+<br/>
 College Institution : 7th Rank 
 
 CodeChef
 ---------------
 C : Beginner (Completed All Questions)
+<br/>
 C++ : Beginner (Completed All Questions)
+<br/>
 Java : Beginner (Completed All Questions)
 
 https://github.com/Umangmodii
@@ -55,9 +63,11 @@ https://www.linkedin.com/in/umangmodi123/
 ⚡ Fun fact I love Reading
 
 Connect with me:
+<br/>
 https://www.instagram.com/codewithumang/
 
 Languages and Tools:
+<br/>
 Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef Problem Solving || Javascript | ReactJS | AngularJS || Laravel PHP || MVC || Oracle | MySql | PostgreSQL | MongoDB || DS || Github | Git || DSA With CPP || Python
 
 ---------------------
