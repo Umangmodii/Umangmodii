@@ -119,6 +119,20 @@ Google Public in IT Services
 
 1. TechUmang - Website Developement Services
 2. Umangmodi - Web Developer
+
+<hr/>
+
+Deployment Knowledge
+-----------------------
+1. Netlify <br/>
+2. Wix <br/>
+3. Godaddy <br/>
+4. Vercel <br/>
+5. Cloud Computing <br/>
+6. AWS (Amazon Web Services) <br/>
+7. Streamlit
+
+
    
 
 
