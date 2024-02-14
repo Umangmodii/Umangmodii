@@ -122,8 +122,8 @@ Google Public in IT Services
 
 <hr/>
 
-Deployment Knowledge
------------------------
+Website Deployment Knowledge
+----------------------------
 1. Netlify <br/>
 2. Wix <br/>
 3. Godaddy <br/>
@@ -131,6 +131,14 @@ Deployment Knowledge
 5. Cloud Computing <br/>
 6. AWS (Amazon Web Services) <br/>
 7. Streamlit
+
+<hr/>
+
+API 
+----
+1.Rest Based API 
+<br/>
+2.XML Based API
 
 
    
