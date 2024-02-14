@@ -22,7 +22,6 @@ Personal Work and Achievement
 
 15+ Websites Host
 
-<br/>
 <hr/>
 
 HackerRank
