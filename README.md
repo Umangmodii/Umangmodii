@@ -140,6 +140,22 @@ API
 <br/>
 2.XML Based API
 
+<hr>
+
+Python Knowlege
+----------------
+1.Flask
+<br/>
+2.RestAPI 
+<br/>
+3.Gesture Handshaking
+<br/>
+4.Turtle
+<br/>
+5.Tkinter
+<br/>
+6.QRCode
+
 
    
 
