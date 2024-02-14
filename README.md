@@ -21,7 +21,10 @@ Personal Work and Achievement
 35+ Course Certificate.
 
 15+ Websites Host
+
+<br/>
 <hr/>
+
 HackerRank
 ---------------
 Java : 25+ Problem Solve
