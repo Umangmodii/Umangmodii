@@ -124,10 +124,13 @@ Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef
 36. Artifical Inteligence With Python
 
 </br>
+</hr>
 
 <hr>
 ---------------------
-<B> 15+ Websites Host </B>
+<br>
+<B><h2> 15+ Websites Host </h2></B>
+<br>
 ---------------------
 
 1.Tech Umang : https://techumang.netlify.app/
