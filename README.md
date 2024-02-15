@@ -161,7 +161,7 @@ Python Knowlege
 
 Python Extra Knowlege
 ----------------------
-1.Jupyter Lab
+1.Jupyter NoteBook
 
 
    
