@@ -123,7 +123,7 @@ Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef
 35. Big Data
 36. Artifical Inteligence With Python
 
-<br>
+</br>
 
 </hr>
 ---------------------
