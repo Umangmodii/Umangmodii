@@ -163,6 +163,7 @@ Python Knowlege
 Python Extra Knowlege
 ----------------------
 1.Jupyter NoteBook
+2.Pandas
 
 
    
