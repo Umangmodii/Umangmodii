@@ -155,6 +155,13 @@ Python Knowlege
 5.Tkinter
 <br/>
 6.QRCode
+<br/>
+
+</hr>
+
+Python Extra Knowlege
+----------------------
+1.Jupyter Lab
 
 
    
