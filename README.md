@@ -125,7 +125,7 @@ Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef
 
 </br>
 
-</hr>
+<hr>
 ---------------------
 15+ Websites Host
 ---------------------
@@ -214,6 +214,8 @@ Python Extra Knowlege
 3. Data Science
 <br/>
 4. Research Data Analytics
+<br/>
+5. NumPy
 
 
 
