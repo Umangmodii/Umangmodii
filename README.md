@@ -8,10 +8,11 @@ Database Skill : I all database can be worked with Oracle (SQL), MySql, PostgreS
 <br/>
 
 I Have completed 15+ Websites Host :
+<br/>
 
-  1. E-Commerce Project |
-  2. Collage Web Portal Project |
-  3. Two Application
+  1. E-Commerce Project | <br/>
+  2. Collage Web Portal Project | <br/>
+  3. Two Application  <br/>
 
 <hr/>
 
