@@ -127,7 +127,7 @@ Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef
 
 <hr>
 ---------------------
-15+ Websites Host
+<B> 15+ Websites Host </B>
 ---------------------
 
 1.Tech Umang : https://techumang.netlify.app/
