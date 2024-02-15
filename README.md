@@ -81,6 +81,51 @@ Languages and Tools:
 <br/>
 Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef Problem Solving || Javascript | ReactJS | AngularJS || Laravel PHP || MVC || Oracle | MySql | PostgreSQL | MongoDB || DS || Github | Git || DSA With CPP || Python
 
+</hr>
+
+-----------------------
+35+ Course Certificates
+-----------------------
+1. PHP Core 7 <br>
+2. PHP Language  <br>
+3. Web Designing  <br>
+4. UI/UX For Beginner  <br>
+5. SQL (Basics) <br>
+6. Python For Beginner <br>
+7. Networking
+8. Microsoft Excel
+9. Java Programming Language
+10. Front End Web Development
+11. DBMS
+12. C Language
+13. Bootstrap
+14. Basic Computer
+15. Advance Java
+16. AWS (Amazon Web Services)
+17. .NET On AWS
+18. Laravel PHP
+19. CSS
+20. SQL Intermediate
+21. SQL Data Analysis
+22. Python for Beginner
+23. Windows 10 For Education
+24. Google Analytics
+25. Cloud Computing
+26. ASP.NET Core API
+27. Digital Desig & UX Job Simulation
+28. Core Designer
+29. Cognizant - AI Job Simulation
+30. ReacJS
+31. Google IT Automation With Python
+32. DSA (Data Structure And Algorithms) With C++
+33. Data Science
+34. Blockchain
+35. Big Data
+36. Artifical Inteligence With Python
+
+<br>
+
+</hr>
 ---------------------
 15+ Websites Host
 ---------------------
@@ -165,6 +210,11 @@ Python Extra Knowlege
 1.Jupyter NoteBook
 <br/>
 2.Pandas
+<br/>
+3. Data Science
+<br/>
+4. Research Data Analytics
+
 
 
    
