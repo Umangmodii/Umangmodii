@@ -216,6 +216,8 @@ Python Extra Knowlege
 4. Research Data Analytics
 <br/>
 5. NumPy
+<br/>
+6. Seaborn
 
 
 
