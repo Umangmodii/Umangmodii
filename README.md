@@ -7,7 +7,7 @@ Backend Skill : PHP Framework In Laravel PHP
 Database Skill : I all database can be worked with Oracle (SQL), MySql, PostgreSQL, MongoDB etc.
 <br/>
 
-I Have completed 15+ Websites Host :
+I Have completed 14+ Websites Host :
 <br/>
 
   1. E-Commerce Project | <br/>
@@ -132,7 +132,7 @@ Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef
 </hr>
 
 <hr>
-<B><h2> 15+ Websites Host </h2></B>
+<B><h2> 14+ Websites Host </h2></B>
 
 1.Tech Umang : https://techumang.netlify.app/
 <br/>
@@ -217,11 +217,16 @@ Python Extra Knowlege
 <br/>
 3. Data Science
 <br/>
-4. Research Data Analytics
+4. Machine Learning
 <br/>
-5. NumPy
+5. Research Data Analytics
 <br/>
-6. Seaborn
+6. NumPy
+<br/>
+7. Seaborn
+</br/>
+8.Matplotlib
+
 
 
 
