@@ -224,7 +224,7 @@ Python Extra Knowlege
 6. NumPy
 <br/>
 7. Seaborn
-</br/>
+<br/>
 8.Matplotlib
 
 
