@@ -209,7 +209,7 @@ Python Knowlege
 
 </hr>
 
-Python Extra Knowlege
+Python Advanced Knowlege
 ----------------------
 1.Jupyter NoteBook
 <br/>
