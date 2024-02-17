@@ -186,7 +186,7 @@ Website Deployment Knowledge
 
 API 
 ----
-1.Rest Based API 
+1.Rest Based API (Postman API)
 <br/>
 2.XML Based API
 
