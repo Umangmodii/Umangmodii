@@ -10,12 +10,15 @@ Database Skill : I all database can be worked with Oracle (SQL), MySql, PostgreS
 I Have completed 14+ Websites Host :
 <br/>
 
+<h2> Projects </h2>
+
   1. E-Commerce Project | <br/>
   2. Collage Web Portal Project | <br/>
   3. Python With Data Analysis | <br/>
   4. Real Estate Prediction Data ML With Data Science Projects | <br/>
   5. Console Wheather Forecasting RestAPI Using Python | <br/>
   6. Tic Tac Toe Game | <br/>
+  7. Quiz Application using Java Swing | JAVA
 
 <br/>
   
