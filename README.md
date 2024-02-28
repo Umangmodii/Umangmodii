@@ -191,21 +191,22 @@ Website Deployment Knowledge
 4. Vercel <br/>
 5. Cloud Computing <br/>
 6. AWS (Amazon Web Services) <br/>
-7. Streamlit
+7. Streamlit <br/>
+8. Heroku 
 
 <hr/>
 
 API 
 ----
-1.Rest Based API (Postman API)
-<br/>
-2.XML Based API
+1.Rest Based API (Postman API) JSON Data <br/>
+2.Rapid API <br/>
+2.XML Based API 
 
 <hr>
 
 Python Knowlege
 ----------------
-1.Flask
+1.Flask Server
 <br/>
 2.RestAPI 
 <br/>
