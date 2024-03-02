@@ -200,7 +200,6 @@ API
 ----
 1.Rest Based API (Postman API) JSON Data <br/>
 2.Rapid API <br/>
-2.XML Based API 
 
 <hr>
 
