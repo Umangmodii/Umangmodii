@@ -221,8 +221,8 @@ Python Knowlege
 
 </hr>
 
-Python Advanced Knowledge
-----------------------
+Python Advanced Knowledge With Machine Learning & Data Science
+---------------------------------------------------------------
 1.Jupyter NoteBook
 <br/>
 2.Pandas
