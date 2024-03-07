@@ -239,6 +239,17 @@ Python Advanced Knowledge With Machine Learning & Data Science
 <br/>
 8.Matplotlib
 
+Server Knowledge
+------------------
+1. Apache Tomcat <br/>
+2. PHPMyAdmin <br/>
+3. Apache Server
+
+Python Advance Data Science Knowledge
+---------------------------------------
+1. Anaconda
+2. Spyder
+
 <hr/>
 
 Docker Knowledge
@@ -248,6 +259,7 @@ Docker Knowledge
 3. Container Create <br/>
 4. Java With Create a Images <br/>
 5. Python With Create a Images
+
 
 
 
