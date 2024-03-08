@@ -19,9 +19,12 @@
 
 - 👨‍💻 I’m working on [FillNotes APP | JavaScript](FillNotes APP | JavaScript)  
 
-- 👨‍💻 I’m working on [ATM Withdraw Balance in Console Based | C++)
+- 👨‍💻 I’m working on [ATM Withdraw Balance in Console Based | C++)]
 
 - 👨‍💻 I’m working on **Docker With Own Images Create | Docker | Java | Python | Linux Based Ubuntu Debian**
+
+- 👨‍💻 I’m working on [Console-based Chat Application | Python | Socket | Threading)]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
