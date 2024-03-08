@@ -51,20 +51,26 @@
 
 <h2> Data Structure & Algorithms </h2>
 
- <h4> C++ Using DSA </h4>
-    <h5> 1. Searching </h5>
-    <h5> 2. Sorting </h5>
-    <h5> 3.Stack </h5>
-    <h5> 4.Queue </h5>
-    <h5> 5.Patern Matching Algorithms </h5>
-    <h5> 6. Tree</h5>
-    <h5> 7. Graph</h5>
+<hr>
+
+ <h3> C++ Using DSA </h3>
+ -------------------------------
+    <h4> 1. Searching </h4>
+    <h4> 2. Sorting </h4>
+    <h4> 3.Stack </h4>
+    <h4> 4.Queue </h4>
+    <h4> 5.Patern Matching Algorithms </h4>
+    <h4> 6. Tree</h4>
+    <h4> 7. Graph</h4>
+
+<br/>
     
- <h4> Python Using DSA </h4>
-    <h5> 1. Searching </h5>
-    <h5> 2. Sorting </h5>
-    <h5> 3.Stack </h5>
-    <h5> 4.Queue </h5>
+ <h3> Python Using DSA </h3>
+-------------------------------
+    <h4> 1. Searching </h4>
+    <h4> 2. Sorting </h4>
+    <h4> 3.Stack </h4>
+    <h4> 4.Queue </h4>
 
 <br/>
 
