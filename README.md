@@ -49,6 +49,25 @@
 
 <hr/>
 
+<h2> Data Structure & Algorithms </h2>
+
+ <h4> C++ Using DSA </h4>
+    <h5> 1. Searching </h5>
+    <h5> 2. Sorting </h5>
+    <h5> 3.Stack </h5>
+    <h5> 4.Queue </h5>
+    <h5> 5.Patern Matching Algorithms </h5>
+    <h5> 6. Tree</h5>
+    <h5> 7. Graph</h5>
+    
+ <h4> Python Using DSA </h4>
+    <h5> 1. Searching </h5>
+    <h5> 2. Sorting </h5>
+    <h5> 3.Stack </h5>
+    <h5> 4.Queue </h5>
+
+<br/>
+
 Personal Work and Achievement
 -------------------------------
 
