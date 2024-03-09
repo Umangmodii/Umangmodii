@@ -25,6 +25,8 @@
 
 - 👨‍💻 I’m working on [Console-based Chat Application | Python | Socket | Threading)]
 
+- 👨‍💻 I’m working on [(Voice-Activated Assistant (Similar to Jarvis) | Python)]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -261,6 +263,7 @@ Python Knowlege
 <br/>
 6.QRCode
 <br/>
+7. Python Personal AI Desktop 
 
 </hr>
 
