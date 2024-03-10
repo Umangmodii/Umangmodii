@@ -6,11 +6,6 @@
 Programming Language Skills
 -----------------------------
 
-| Programming Language  | Front End | Database | Framework | Others|
-| ------------- | ------------- |  | ------------- | ------------- |
-| Content Cell  | Content Cell  |  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |  | Content Cell  | Content Cell  |
-
 </center>
 
 - 👨‍💻 I’m working on **E-Commerce Project | Laravel PHP**
