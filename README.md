@@ -14,7 +14,7 @@ Programming Language Skills
 5. DSA Work : C++, Python Both Language
 7. Framworks : Laravel PHP
 8. Version Control : Git, Github
-9. API Integration : RapidAP, Postman
+9. API Integration : RapidAPI, Postman
 10. Others : Docker, OAuth, Security
 11. Fundamental Knowledge : DBMS, Networking, OS, Cloud Computing
 12. HackerRank : Problem Solving (C, C++, JAVA, Python, SQL) in 150+ Problem Solving Overall
