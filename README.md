@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Umang Modi</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
+<Skills>
+       <Language>
+                   1.C++
+                   2.Java
+                   3.Python
+       </Language>
+</Skills>
+
+
 - 👨‍💻 I’m working on **E-Commerce Project | Laravel PHP**
 
 - 👨‍💻 I’m working on **Real Estate Prediction Data ML With Data Science Projects | Python**
