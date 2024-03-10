@@ -7,17 +7,18 @@
 
 Programming Language Skills
 -----------------------------
-1. Programming Language : 
-        1. C++ 
-        2. PHP 
-        3. JAVA 
-        4. Python
-<br/>
-<B> 2. Front End Language : </B> 
-<br/>
-<B> 1. Database : <B> 
-<br/>
-<B> 2. Others : </B> 
+ String[] languages  = new String[] { "Java" , "Dart" ,"PHP" , "C#" , "C" ,"C++" };
+    String[] frontEnd   = new String[] { "Html" , "CSS" , "JavaScript" , "Bootstrap" , "jQuery" };
+    String[] databases  = new String[] { "Oracle" , "MySQL", "MongoDB" };
+    String[] frameworks = new String[] { "Spring Boot", "Flutter" };
+    String[] others     = new String[]  { "Spring Security" , "JWT Auth" , "Docker" }
+
+ String name      = "Smit Joshi";
+    String title     = "Full Stack Developer";
+    String location  = "Ahmedabad";
+    String linkedIn  = "https://www.linkedin.com/in/smit-joshi814/";
+    String GitHub    = "https://github.com/smit-joshi814";
+    String portfolio = "https://resumesmitjoshi.blogspot.com";
 
 <hr>
 
