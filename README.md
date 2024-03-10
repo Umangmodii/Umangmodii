@@ -7,11 +7,11 @@
 
 Programming Language Skills
 -----------------------------
-<B> 1. Programming Language : <B> 
-       <h3> 1. C++ </h3>
-       <h3> 2. PHP </h3>
-       <h3> 3. JAVA </h3>
-       <h3> 4. Python </h3>
+1. Programming Language : 
+        1. C++ 
+        2. PHP 
+        3. JAVA 
+        4. Python
 <br/>
 <B> 2. Front End Language : </B> 
 <br/>
