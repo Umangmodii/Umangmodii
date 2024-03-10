@@ -7,7 +7,7 @@
 
 Programming Language Skills
 -----------------------------
-1. Programming Language : (["C++","PHP","JAVA","Python"])
+1. Programming Language : "C++","PHP","JAVA","Python"
 
 <hr>
 
