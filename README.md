@@ -16,12 +16,13 @@ Programming Language Skills
 7. Framworks : Laravel PHP
 8. Version Control : Git, Github
 9. API Integration : RapidAPI, Postman
-10. Others : Docker, OAuth, Security
-11. Fundamental Knowledge : DBMS, Networking, OS, Cloud Computing
-12. HackerRank : Problem Solving (C, C++, JAVA, Python, SQL) in 150+ Problem Solving Overall
-13. LeetCode : Problem Solving (SQL)
-14. CodeChef : Problem Solving (C, C++, JAVA, SQL) in 100+ Problem Solving Overall
-15. GFG (Geeks For Geeks) : (C++) Institute Rank is 7
+10. Hosting Work : Netlify, Heroku, Vercel
+11. Others : Docker, OAuth, Security
+12. Fundamental Knowledge : DBMS, Networking, OS, Cloud Computing
+13. HackerRank : Problem Solving (C, C++, JAVA, Python, SQL) in 150+ Problem Solving Overall
+14. LeetCode : Problem Solving (SQL)
+15. CodeChef : Problem Solving (C, C++, JAVA, SQL) in 100+ Problem Solving Overall
+16. GFG (Geeks For Geeks) : (C++) Institute Rank is 7
     
 <hr>
 
