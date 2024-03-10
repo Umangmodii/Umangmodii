@@ -14,12 +14,13 @@ Programming Language Skills
 5. DSA Work : C++, Python Both Language
 7. Framworks : Laravel PHP
 8. Version Control : Git, Github
-9. Others : Docker, OAuth, Security
-10. Fundamental Knowledge : DBMS, Networking, OS
-11. HackerRank : Problem Solving (C, C++, JAVA, Python, SQL) in 150+ Problem Solving Overall
-12. LeetCode : Problem Solving (SQL)
-13. CodeChef : Problem Solving (C, C++, JAVA, SQL) in 100+ Problem Solving Overall
-14. GFG (Geeks For Geeks) : (C++) Institute Rank is 7
+9. API Integration : RapidAP, Postman
+10. Others : Docker, OAuth, Security
+11. Fundamental Knowledge : DBMS, Networking, OS, Cloud Computing
+12. HackerRank : Problem Solving (C, C++, JAVA, Python, SQL) in 150+ Problem Solving Overall
+13. LeetCode : Problem Solving (SQL)
+14. CodeChef : Problem Solving (C, C++, JAVA, SQL) in 100+ Problem Solving Overall
+15. GFG (Geeks For Geeks) : (C++) Institute Rank is 7
     
 <hr>
 
