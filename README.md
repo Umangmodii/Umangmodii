@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Umang Modi</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
+<center>
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+</center>
 
 - 👨‍💻 I’m working on **E-Commerce Project | Laravel PHP**
 
