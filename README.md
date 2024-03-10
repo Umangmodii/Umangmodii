@@ -3,8 +3,23 @@
 
 <center>
 
+<hr>
+
 Programming Language Skills
 -----------------------------
+<B> 1. Programming Language : <B> <br>
+       <h3> 1. C++ </h3>
+       <h3> 2. PHP </h3>
+       <h3> 3. JAVA </h3>
+       <h3> 4. Python </h3>
+<br/>
+<B> 2. Front End Language : </B> 
+<br/>
+<B> 1. Database : <B> 
+<br/>
+<B> 2. Others : </B> 
+
+<hr>
 
 </center>
 
