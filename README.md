@@ -7,7 +7,7 @@
 
 Programming Language Skills
 -----------------------------
-<B> 1. Programming Language : <B> <br>
+<B> 1. Programming Language : <B> 
        <h3> 1. C++ </h3>
        <h3> 2. PHP </h3>
        <h3> 3. JAVA </h3>
