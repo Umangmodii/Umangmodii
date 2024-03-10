@@ -6,7 +6,7 @@
 Programming Language Skills
 -----------------------------
 
-| Programming Language  | Front End | Database |  Framework | Others
+| Programming Language  | Front End | Database | Framework | Others|
 | ------------- | ------------- |  | ------------- | ------------- |
 | Content Cell  | Content Cell  |  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |  | Content Cell  | Content Cell  |
