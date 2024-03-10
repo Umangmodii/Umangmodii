@@ -24,10 +24,6 @@ Programming Language Skills
 15. CodeChef : Problem Solving (C, C++, JAVA, SQL) in 100+ Problem Solving Overall
 16. GFG (Geeks For Geeks) : (C++) Institute Rank is 7
     
-<hr>
-
-</center>
-
 - 👨‍💻 I’m working on **E-Commerce Project | Laravel PHP**
 
 - 👨‍💻 I’m working on **Real Estate Prediction Data ML With Data Science Projects | Python**
