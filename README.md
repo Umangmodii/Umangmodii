@@ -8,7 +8,7 @@
 Programming Language Skills
 -----------------------------
 1. Programming Language : C++, PHP, JAVA, Python
-2. FrontEnd Language : HTML, Boostrap, JS
+2. FrontEnd Language : HTML, Boostrap, JS, ReactJS
 3. Database : MySql, PostgreSQL, Oracle, MongoDB
 4. Advance Python Works : DataScience, Machine Learning, Data Analytics
 5. DSA Work : C++, Python Both Language
