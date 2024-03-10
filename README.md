@@ -11,12 +11,16 @@ Programming Language Skills
 2. FrontEnd Language : HTML, Boostrap, JS
 3. Database : MySql, PostgreSQL, Oracle, MongoDB
 4. Advance Python Works : DataScience, Machine Learning, Data Analytics
-5. DSA Work : C++, Python Language
-6. Framworks : Laravel PHP
-7. Version Control : Git, Github
-8. Others : Docker, OAuth, Security
-9. Fundamental Knowledge : DBMS, Networking, OS
-
+5. DSA Work : C++, Python Both Language
+7. Framworks : Laravel PHP
+8. Version Control : Git, Github
+9. Others : Docker, OAuth, Security
+10. Fundamental Knowledge : DBMS, Networking, OS
+11. HackerRank : Problem Solving (C, C++, JAVA, Python, SQL) in 150+ Problem Solving Overall
+12. LeetCode : Problem Solving (SQL)
+13. CodeChef : Problem Solving (C, C++, JAVA, SQL) in 100+ Problem Solving Overall
+14. GFG (Geeks For Geeks) : (C++) Institute Rank is 7
+    
 <hr>
 
 </center>
