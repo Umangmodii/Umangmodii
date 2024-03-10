@@ -23,6 +23,8 @@ Programming Language Skills
 14. LeetCode : Problem Solving (SQL)
 15. CodeChef : Problem Solving (C, C++, JAVA, SQL) in 100+ Problem Solving Overall
 16. GFG (Geeks For Geeks) : (C++) Institute Rank is 7
+
+    <hr>
     
 - 👨‍💻 I’m working on **E-Commerce Project | Laravel PHP**
 
@@ -52,7 +54,6 @@ Programming Language Skills
 
 - 👨‍💻 Two Application  
 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
