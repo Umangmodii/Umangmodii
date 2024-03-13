@@ -15,7 +15,7 @@ Programming Language Skills
 5. DSA Work : C++, Python Both Language
 7. Framworks : Laravel PHP
 8. Version Control : Git, Github
-9. API Integration : RapidAPI, Postman
+9. API Integration : RapidAPI, Postman, JSON Format
 10. Hosting Work : Netlify, Heroku, Vercel
 11. Others : Docker, OAuth, Security
 12. Fundamental Knowledge : DBMS, Networking, OS, Cloud Computing
