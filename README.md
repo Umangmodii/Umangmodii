@@ -16,7 +16,7 @@ Programming Language Skills
 7. Framworks : Laravel PHP
 8. Version Control : Git, Github
 9. API Integration : RapidAPI, Postman, JSON Format
-10. Hosting Work : Netlify, Heroku, Vercel
+10. Hosting Work : Netlify, Heroku, Vercel, Wix, Godaddy
 11. Others : Docker, OAuth, Security
 12. Fundamental Knowledge : DBMS, Networking, OS, Cloud Computing
 13. HackerRank : Problem Solving (C, C++, JAVA, Python, SQL) in 150+ Problem Solving Overall
