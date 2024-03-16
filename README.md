@@ -16,7 +16,7 @@ Programming Language Skills
 6. DSA Work : C++, Python Both Language
 7. Framworks : Laravel PHP
 8. Version Control : Git, Github
-9. API Integration : RapidAPI, Postman, JSON Format
+9. API Integration : RapidAPI, Postman,News API, Spotify, Whether API, JSON Format
 10. Hosting Work : Netlify, Heroku, Vercel, Wix, Godaddy
 11. Others : Docker, OAuth, Security
 12. Fundamental Knowledge : DBMS, Networking, OS, Cloud Computing
@@ -56,8 +56,9 @@ Project Works
 
 - 👨‍💻 I’m working on [(Voice-Activated Assistant (Similar to Jarvis) | Python)]
 
+- 👨‍💻 I’m working on [(Responsive News Web Application | PWA | Bootstrap | JS | Rest API | Postman)]
+ 
 - 👨‍💻 Two Application  
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
