@@ -57,6 +57,8 @@ Project Works
 - 👨‍💻 I’m working on [(Voice-Activated Assistant (Similar to Jarvis) | Python)]
 
 - 👨‍💻 I’m working on [(Responsive News Web Application | PWA | Bootstrap | JS | Rest API | Postman)]
+
+- 👨‍💻 I’m working on [(Weather Forecasting App | HTML, CSS, Bootstrap, JavaScript, and OpenWeatherMap API | Postman)]
  
 - 👨‍💻 Two Application  
 
