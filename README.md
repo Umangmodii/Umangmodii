@@ -32,33 +32,33 @@ Project Works
     
 - 👨‍💻 I’m working on **E-Commerce Project | Laravel PHP**
 
-- 👨‍💻 I’m working on **Real Estate Prediction Data ML With Data Science Projects | Python**
+- 👨‍💻 Project 1 : **Real Estate Prediction Data ML With Data Science Projects | Python**
 
-- 👨‍💻 I’m working on **Collage Web Portal Project | Core PHP**
+- 👨‍💻 Project 2 : **Collage Web Portal Project | Core PHP**
 
-- 👨‍💻 I’m working on **Python With Data Analysis | Python**
+- 👨‍💻 Project 3 : **Python With Data Analysis | Python**
 
-- 👨‍💻 I’m working on [Quiz Application using Java Swing | JAVA](Quiz Application using Java Swing | JAVA)
+- 👨‍💻 Project 4 :  [Quiz Application using Java Swing | JAVA](Quiz Application using Java Swing | JAVA)
 
-- 👨‍💻 I’m working on [AudioClip Web | Windows | Mobile Application | ReactJS | RestAPI](AudioClip Web | Windows | Mobile Application | ReactJS | RestAPI)
+- 👨‍💻 Project 5 : [AudioClip Web | Windows | Mobile Application | ReactJS | RestAPI]
 
-- 👨‍💻 I’m working on **Console Wheather Forecasting RestAPI Using Python | Python**
+- 👨‍💻 Project 6 : **Console Wheather Forecasting RestAPI Using Python | Python**
 
-- 👨‍💻 I’m working on **Tic Tac Toe Game | Python**
+- 👨‍💻 Project 7 : **Tic Tac Toe Game | Python**
 
-- 👨‍💻 I’m working on [FillNotes APP | JavaScript](FillNotes APP | JavaScript)  
+- 👨‍💻 Project 8 : [FillNotes APP | JavaScript](FillNotes APP | JavaScript)  
 
-- 👨‍💻 I’m working on [ATM Withdraw Balance in Console Based | C++)]
+- 👨‍💻 IProject 9 : [ATM Withdraw Balance in Console Based | C++)]
 
-- 👨‍💻 I’m working on **Docker With Own Images Create | Docker | Java | Python | Linux Based Ubuntu Debian**
+- 👨‍💻 Project 10 : **Docker With Own Images Create | Docker | Java | Python | Linux Based Ubuntu Debian**
 
-- 👨‍💻 I’m working on [Console-based Chat Application | Python | Socket | Threading)]
+- 👨‍💻 Project 11 : [Console-based Chat Application | Python | Socket | Threading)]
 
-- 👨‍💻 I’m working on [(Voice-Activated Assistant (Similar to Jarvis) | Python)]
+- 👨‍💻 Project 12 : [(Voice-Activated Assistant (Similar to Jarvis) | Python)]
 
-- 👨‍💻 I’m working on [(Responsive News Web Application | PWA | Bootstrap | JS | Rest API | Postman)]
+- 👨‍💻 Project 13 : [(Responsive News Web Application | PWA | Bootstrap | JS | Rest API | Postman)]
 
-- 👨‍💻 I’m working on [(Weather Forecasting App | HTML, CSS, Bootstrap, JavaScript, and OpenWeatherMap API | Postman)]
+- 👨‍💻 Project 14 : [(Weather Forecasting App | HTML, CSS, Bootstrap, JavaScript, and OpenWeatherMap API | Postman)]
  
 - 👨‍💻 Two Application  
 
