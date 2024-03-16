@@ -248,6 +248,10 @@ Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef
 14. Google Public Web Developement Services : https://umangmodi.business.site/
 <br/>
 15. AudioClip Web | Windows | Mobile Application | ReactJS | RestAPI : https://audioclip.netlify.app/
+<br/>
+16.Weather Forecasting App | HTML, CSS, Bootstrap, JavaScript, and OpenWeatherMap API | Postman | RestAPI : https://whetherforecast.netlify.app/
+<br/>
+17. Responsive News Web Application | PWA | Bootstrap | JS | Rest API | Postman : https://dailynewsarticles.vercel.app/
 
 -----------------------------------------------------------------------------------
 
