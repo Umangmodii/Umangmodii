@@ -59,6 +59,8 @@ Project Works
 - 👨‍💻 Project 13 : [(Responsive News Web Application | PWA | Bootstrap | JS | Rest API | Postman)]
 
 - 👨‍💻 Project 14 : [(Weather Forecasting App | HTML, CSS, Bootstrap, JavaScript, and OpenWeatherMap API | Postman)]
+
+- 👨‍💻 Project 15 : [(Responsive Movies-Info APP | HTML, CSS, Bootstrap, JavaScript, and OpenWeatherMap API | Postman)]
  
 - 👨‍💻 Two Application  
 
@@ -252,6 +254,8 @@ Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef
 16.Weather Forecasting App | HTML, CSS, Bootstrap, JavaScript, and OpenWeatherMap API | Postman | RestAPI : https://whetherforecast.netlify.app/
 <br/>
 17. Responsive News Web Application | PWA | Bootstrap | JS | Rest API | Postman : https://dailynewsarticles.vercel.app/
+<br/>
+18. Responsive Movies-Info APP | PWA | Bootstrap | JS | Rest API | Postman : https://newmoviesinfo.netlify.app/
 
 -----------------------------------------------------------------------------------
 
