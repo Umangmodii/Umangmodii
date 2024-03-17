@@ -15,7 +15,7 @@ Programming Language Skills
 5. Advance Python Works : Jupyter NoteBook, DataScience, Machine Learning, Data Analytics
 6. DSA Work : C++, Python Both Language
 7. Framworks : Laravel PHP
-8. Version Control : Git, Github
+8. Version Control : Git, Github, GitLab
 9. API Integration : RapidAPI, Postman,News API, Spotify, Whether API, JSON Format
 10. Hosting Work : Netlify, Heroku, Vercel, Wix, Godaddy
 11. Others : Docker, OAuth, Security
