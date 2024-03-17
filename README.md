@@ -61,7 +61,7 @@ Project Works
 
 - 👨‍💻 Project 14 : [(Weather Forecasting App | HTML, CSS, Bootstrap, JavaScript, and OpenWeatherMap API | Postman)]
 
-- 👨‍💻 Project 15 : [(Responsive Movies-Info APP | HTML, CSS, Bootstrap, JavaScript, and OpenWeatherMap API | Postman)]
+- 👨‍💻 Project 15 : [(Responsive Movies-Info APP | HTML, CSS, Bootstrap, JavaScript, and Open Movie Database (OMDb)| Postman)]
  
 - 👨‍💻 Two Application  
 
