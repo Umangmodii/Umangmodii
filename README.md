@@ -16,7 +16,7 @@ Programming Language Skills
 6. DSA Work : C++, Python Both Language
 7. Framworks : Laravel PHP
 8. Version Control : Git, Github, GitLab
-9. API Integration : RapidAPI, Postman,News API, Spotify API, Whether API, Open Movie Database (OMDb) API, JSON Format
+9. API Integration : RapidAPI, Postman,News API, Spotify API, Whether API, Open Movie Database (OMDb) API, GitHub API JSON Format
 10. Hosting Work : Netlify, Heroku, Vercel, Wix, Godaddy
 11. Others : Docker, OAuth, Security
 12. Fundamental Knowledge : DBMS, Networking, OS, Cloud Computing
@@ -24,7 +24,7 @@ Programming Language Skills
 14. LeetCode : Problem Solving (SQL)
 15. CodeChef : Problem Solving (C, C++, JAVA, SQL) in 100+ Problem Solving Overall
 16. GFG (Geeks For Geeks) : (C++) Institute Rank is 7
-17. I have project worked overall in 15+ 
+17. I have project worked overall in 17+ 
 
     <hr>
 
@@ -62,6 +62,8 @@ Project Works
 - 👨‍💻 Project 14 : [(Weather Forecasting App | HTML, CSS, Bootstrap, JavaScript, and OpenWeatherMap API | Postman)]
 
 - 👨‍💻 Project 15 : [(Responsive Movies-Info APP | HTML, CSS, Bootstrap, JavaScript, and Open Movie Database (OMDb)| Postman)]
+
+-  👨‍💻 Project 16 : [(GitHub Account Finder | Github API | RestAPI | JSON | Postman | JS | PWA)]
  
 - 👨‍💻 Two Application  
 
@@ -250,13 +252,15 @@ Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef
 <br/>
 14. Google Public Web Developement Services : https://umangmodi.business.site/
 <br/>
-15. AudioClip Web | Windows | Mobile Application | ReactJS | RestAPI : https://audioclip.netlify.app/
+15. AudioClip Web | Windows | Mobile Application : https://audioclip.netlify.app/
 <br/>
-16.Weather Forecasting App | HTML, CSS, Bootstrap, JavaScript, and OpenWeatherMap API | Postman | RestAPI : https://whetherforecast.netlify.app/
+16.Weather Forecasting App  : https://whetherforecast.netlify.app/
 <br/>
-17. Responsive News Web Application | PWA | Bootstrap | JS | Rest API | Postman : https://dailynewsarticles.vercel.app/
+17. Responsive News Web Application : https://dailynewsarticles.vercel.app/
 <br/>
-18. Responsive Movies-Info APP | PWA | Bootstrap | JS | Rest API | Postman : https://newmoviesinfo.netlify.app/
+18. Responsive Movies-Info APP : https://newmoviesinfo.netlify.app/
+<br/>
+19. Responsive Github Account Finder : https://githubaccountfind.netlify.app/
 
 -----------------------------------------------------------------------------------
 
