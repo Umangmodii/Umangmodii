@@ -16,7 +16,7 @@ Programming Language Skills
 6. DSA Work : C++, Python Both Language
 7. Framworks : Laravel PHP
 8. Version Control : Git, Github, GitLab
-9. API Integration : RapidAPI, Postman,News API, Spotify API, Whether API, Open Movie Database (OMDb) API, Unsplash API, GitHub API JSON Format
+9. API Integration : RapidAPI, Postman,News API, Spotify API, Whether API, Open Movie Database (OMDb) API, Unsplash API, GitHub API, YouTube API, JSON Format
 10. Hosting Work : Netlify, Heroku, Vercel, Wix, Godaddy
 11. Others : Docker, OAuth, Security
 12. Fundamental Knowledge : DBMS, Networking, OS, Cloud Computing
@@ -31,41 +31,43 @@ Programming Language Skills
 Project Works
 -----------------------------
     
-- 👨‍💻 I’m working on **E-Commerce Project | Laravel PHP**
+- 👨‍💻 Project 1 :  **E-Commerce Project | Laravel PHP**
 
-- 👨‍💻 Project 1 : **Real Estate Prediction Data ML With Data Science Projects | Python**
+- 👨‍💻 Project 2 : **Real Estate Prediction Data ML With Data Science Projects | Python**
 
-- 👨‍💻 Project 2 : **Collage Web Portal Project | Core PHP**
+- 👨‍💻 Project 3 : **Collage Web Portal Project | Core PHP**
 
-- 👨‍💻 Project 3 : **Python With Data Analysis | Python**
+- 👨‍💻 Project 4 : **Python With Data Analysis | Python**
 
-- 👨‍💻 Project 4 :  [Quiz Application using Java Swing | JAVA](Quiz Application using Java Swing | JAVA)
+- 👨‍💻 Project 5 :  [Quiz Application using Java Swing | JAVA](Quiz Application using Java Swing | JAVA)
 
-- 👨‍💻 Project 5 : [AudioClip Web | Windows | Mobile Application | ReactJS | RestAPI]
+- 👨‍💻 Project 6 : [AudioClip Web | Windows | Mobile Application | ReactJS | RestAPI]
 
-- 👨‍💻 Project 6 : **Console Wheather Forecasting RestAPI Using Python | Python**
+- 👨‍💻 Project 7 : **Console Wheather Forecasting RestAPI Using Python | Python**
 
-- 👨‍💻 Project 7 : **Tic Tac Toe Game | Python**
+- 👨‍💻 Project 8 : **Tic Tac Toe Game | Python**
 
-- 👨‍💻 Project 8 : [FillNotes APP | JavaScript](FillNotes APP | JavaScript)  
+- 👨‍💻 Project 9 : [FillNotes APP | JavaScript](FillNotes APP | JavaScript)  
 
-- 👨‍💻 IProject 9 : [ATM Withdraw Balance in Console Based | C++)]
+- 👨‍💻 Project 10 : [ATM Withdraw Balance in Console Based | C++)]
 
-- 👨‍💻 Project 10 : **Docker With Own Images Create | Docker | Java | Python | Linux Based Ubuntu Debian**
+- 👨‍💻 Project 11 : **Docker With Own Images Create | Docker | Java | Python | Linux Based Ubuntu Debian**
 
-- 👨‍💻 Project 11 : [Console-based Chat Application | Python | Socket | Threading)]
+- 👨‍💻 Project 12 : [Console-based Chat Application | Python | Socket | Threading)]
 
-- 👨‍💻 Project 12 : [(Voice-Activated Assistant (Similar to Jarvis) | Python)]
+- 👨‍💻 Project 13 : [(Voice-Activated Assistant (Similar to Jarvis) | Python)]
 
-- 👨‍💻 Project 13 : [(Responsive News Web Application | PWA | Bootstrap | JS | Rest API | Postman)]
+- 👨‍💻 Project 14 : [(Responsive News Web Application | PWA | Bootstrap | JS | Rest API | Postman)]
 
-- 👨‍💻 Project 14 : [(Weather Forecasting App | HTML, CSS, Bootstrap, JavaScript, and OpenWeatherMap API | Postman)]
+- 👨‍💻 Project 15 : [(Weather Forecasting App | HTML, CSS, Bootstrap, JavaScript, and OpenWeatherMap API | Postman)]
 
-- 👨‍💻 Project 15 : [(Responsive Movies-Info APP | HTML, CSS, Bootstrap, JavaScript, and Open Movie Database (OMDb)| Postman)]
+- 👨‍💻 Project 16 : [(Responsive Movies-Info APP | HTML, CSS, Bootstrap, JavaScript, and Open Movie Database (OMDb)| Postman)]
 
--  👨‍💻 Project 16 : [(GitHub Account Finder | Github API | RestAPI | JSON | Postman | JS | PWA)]
+- 👨‍💻 Project 17 : [(GitHub Account Finder | Github API | RestAPI | JSON | Postman | JS | PWA)]
 
--  👨‍💻 Project 17 : [(Image Search App | PWA | Bootstrap | JS | Unsplash API | RestAPI | JSON | Postman)]
+- 👨‍💻 Project 18 : [(Image Search App | PWA | Bootstrap | JS | Unsplash API | RestAPI | JSON | Postman)]
+
+- 👨‍💻 Project 19 : [(Watch Videos Web Application | Bootstrap | JS | YouTubeAPI | Postman | PWA)]
  
 - 👨‍💻 Two Application  
 
@@ -224,7 +226,7 @@ Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef
 </hr>
 
 <hr>
-<B><h2> 19+ Websites Host </h2></B>
+<B><h2> 20+ Websites Host </h2></B>
 
 1.Tech Umang : https://techumang.netlify.app/
 <br/>
@@ -265,6 +267,8 @@ Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef
 19. Responsive Github Account Finder : https://githubaccountfind.netlify.app/
 <br/>
 20. Responsive Image Search Find : https://imagesearchfinder.netlify.app/ 
+<br/>
+21. Responsive Watch Videos App : https://latestvideoswatch.netlify.app/
 
 -----------------------------------------------------------------------------------
 
