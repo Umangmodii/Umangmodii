@@ -16,7 +16,7 @@ Programming Language Skills
 6. DSA Work : C++, Python Both Language
 7. Framworks : Laravel PHP
 8. Version Control : Git, Github, GitLab
-9. API Integration : RapidAPI, Postman,News API, Spotify API, Whether API, Open Movie Database (OMDb) API, Unsplash API, GitHub API, YouTube API, JSON Format
+9. API Integration : RapidAPI, Postman,News API, Spotify API, Whether API, Open Movie Database (OMDb) API, Unsplash API, GitHub API, YouTube API, Cricket Score API, Pixels API JSON Format
 10. Hosting Work : Netlify, Heroku, Vercel, Wix, Godaddy
 11. Others : Docker, OAuth, Security
 12. Fundamental Knowledge : DBMS, Networking, OS, Cloud Computing
@@ -69,7 +69,9 @@ Project Works
 
 - 👨‍💻 Project 19 : [(Watch Videos Web Application | Bootstrap | JS | YouTubeAPI | Postman | PWA)]
 
-- 👨‍💻 Project 20 : [(Umang Search Engine | PWA | Mobile Application | Responsive)] 
+- 👨‍💻 Project 20 : [(Umang Search Engine | PWA | Mobile Application | Responsive)]
+
+- 👨‍💻 Project 21 : [(Pixels | API | Postman | JSON | PWA | Mobile Application | Responsive)]
  
 - 👨‍💻 Two Application  
 
@@ -228,7 +230,7 @@ Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef
 </hr>
 
 <hr>
-<B><h2> 20+ Websites Host </h2></B>
+<B><h2> 22+ Websites Host </h2></B>
 
 1.Tech Umang : https://techumang.netlify.app/
 <br/>
@@ -273,6 +275,8 @@ Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef
 21. Responsive Watch Videos App : https://latestvideoswatch.netlify.app/
 <br/>
 22. Umang Search Engine Application | PWA : https://umangsearchengine.netlify.app/
+<br/>
+23. Pixels Image Donwload | https://pixelsimage.netlify.app/
 
 -----------------------------------------------------------------------------------
 
