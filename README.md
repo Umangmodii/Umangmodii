@@ -73,7 +73,7 @@ Project Works
 
 - 👨‍💻 Project 21 : [(Pixels | API | Postman | JSON | PWA | Mobile Application | Responsive)]
 
-- 👨‍💻 Project 21 : [(Recipe Search Project | Bootstrap | Javascript | jQuery | Postman | JSON | API | PWA | Web & Mobile Application)] 
+- 👨‍💻 Project 22 : [(Recipe Search Project | Bootstrap | Javascript | jQuery | Postman | JSON | API | PWA | Web & Mobile Application)] 
  
 - 👨‍💻 Two Application  
 
