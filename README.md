@@ -11,12 +11,12 @@ Programming Language Skills
 1. Programming Language : C++, PHP, JAVA, Python
 2. FrontEnd Language : HTML, Boostrap, JS, ReactJS, JQuery, AJAX, EJS
 3. Mern Stack : ReactJS, NodeJS, ExpressJS, MongoDB
-4. Database : MySql, PostgreSQL, Oracle, MongoDB, RESTFulAPI
+4. Database : MySql, PostgreSQL, Oracle, MongoDB
 5. Advance Python Works : Jupyter NoteBook, DataScience, Machine Learning, Data Analytics
 6. DSA Work : C++, Python Both Language
 7. Framworks : Laravel PHP
 8. Version Control : Git, Github, GitLab
-9. API Integration : RapidAPI, Postman,News API, Spotify API, Whether API, Open Movie Database (OMDb) API, Unsplash API, GitHub API, YouTube API, Cricket Score API, Pixels API, Recipe API, JSON Format
+9. API Integration :  RESTFulAPI, RapidAPI, Postman,News API, Spotify API, Whether API, Open Movie Database (OMDb) API, Unsplash API, GitHub API, YouTube API, Cricket Score API, Pixels API, Recipe API, JSON Format
 10. Hosting Work : Netlify, Heroku, Vercel, Wix, Godaddy
 11. Others : Docker, OAuth, Security
 12. Fundamental Knowledge : DBMS, Networking, OS, Cloud Computing
@@ -31,7 +31,7 @@ Programming Language Skills
 Project Works
 -----------------------------
     
-- 👨‍💻 Project 1 :  **E-Commerce Project | Laravel PHP**
+- 👨‍💻 Project 1 :  **E-Commerce Project | Laravel PHP | MYSQL**
 
 - 👨‍💻 Project 2 : **Real Estate Prediction Data ML With Data Science Projects | Python**
 
