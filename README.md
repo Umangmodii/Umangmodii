@@ -12,19 +12,20 @@ Programming Language Skills
 2. FrontEnd Language : HTML, Boostrap, JS, ReactJS, JQuery, AJAX, EJS
 3. Mern Stack : ReactJS, NodeJS, ExpressJS, MongoDB
 4. Database : MySql, PostgreSQL, Oracle, MongoDB
-5. Advance Python Works : Jupyter NoteBook, DataScience, Machine Learning, Data Analytics
-6. DSA Work : C++, Python Both Language
-7. Framworks : Laravel PHP
-8. Version Control : Git, Github, GitLab
-9. API Integration :  RESTFulAPI, RapidAPI, Postman,News API, Spotify API, Whether API, Open Movie Database (OMDb) API, Unsplash API, GitHub API, YouTube API, Cricket Score API, Pixels API, Recipe API, JSON Format
-10. Hosting Work : Netlify, Heroku, Vercel, Wix, Godaddy
-11. Others : Docker, OAuth, Security
-12. Fundamental Knowledge : DBMS, Networking, OS, Cloud Computing
-13. HackerRank : Problem Solving (C, C++, JAVA, Python, SQL) in 150+ Problem Solving Overall
-14. LeetCode : Problem Solving (SQL)
-15. CodeChef : Problem Solving (C, C++, JAVA, SQL) in 100+ Problem Solving Overall
-16. GFG (Geeks For Geeks) : (C++) Institute Rank is 7
-17. I have project worked overall in 20+ 
+5. Server : Apache, Flask, Hadoop
+6. Advance Python Works : Jupyter NoteBook, DataScience, Machine Learning, Data Analytics
+7. DSA Work : C++, Python Both Language
+8. Framworks : Laravel PHP
+9. Version Control : Git, Github, GitLab
+10. API Integration :  RESTFulAPI, RapidAPI, Postman,News API, Spotify API, Whether API, Open Movie Database (OMDb) API, Unsplash API, GitHub API, YouTube API, Cricket Score API, Pixels API, Recipe API, JSON Format
+11. Hosting Work : Netlify, Heroku, Vercel, Wix, Godaddy
+12. Others : Docker, OAuth, Security
+13. Fundamental Knowledge : DBMS, Networking, OS, Cloud Computing
+14. HackerRank : Problem Solving (C, C++, JAVA, Python, SQL) in 150+ Problem Solving Overall
+15. LeetCode : Problem Solving (SQL)
+16. CodeChef : Problem Solving (C, C++, JAVA, SQL) in 100+ Problem Solving Overall
+17. GFG (Geeks For Geeks) : (C++) Institute Rank is 7
+18. I have project worked overall in 20+ 
 
     <hr>
 
