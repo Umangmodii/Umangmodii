@@ -169,14 +169,6 @@ C++ : Beginner (Completed All Questions)
 <br/>
 Java : Beginner (Completed All Questions)
 
-https://github.com/Umangmodii
-
-https://www.linkedin.com/in/umangmodi123/
-
-🌱 I’m currently learning Laravel PHP
-
-💬 Ask me about Html Bootstrap Js  
-
 📫 How to reach me techwebumang003@gmail.com
 
 ⚡ Fun fact I love Reading
@@ -184,10 +176,6 @@ https://www.linkedin.com/in/umangmodi123/
 Connect with me:
 <br/>
 https://www.instagram.com/codewithumang/
-
-Languages and Tools:
-<br/>
-Web Developer || 15+ Websites Host | Projects | HackerRank | Leetcode | CodeChef Problem Solving || Javascript | ReactJS | AngularJS || Laravel PHP || MVC || Oracle | MySql | PostgreSQL | MongoDB || DS || Github | Git || DSA With CPP || Python
 
 </hr>
 
