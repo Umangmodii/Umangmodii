@@ -180,7 +180,7 @@ https://www.instagram.com/codewithumang/
 </hr>
 
 -----------------------
-35+ Course Certificates
+40+ Course Certificates
 -----------------------
 1. PHP Core 7 <br>
 2. PHP Language  <br>
@@ -218,12 +218,16 @@ https://www.instagram.com/codewithumang/
 34. Blockchain
 35. Big Data
 36. Artifical Inteligence With Python
+37. Internship Studio | CIT (Common Internship Test) - Aptitude Rank
+38. Laravel Quiz Test | Skillvalue Solutions
+39. TOPS Technologies | Live Project Training and Documentation
+40. TOPS Technologies | Full Stack Web Developement
 
 </br>
 </hr>
 
 <hr>
-<B><h2> 25+ Websites Host </h2></B>
+<B><h2> 26+ Websites Host </h2></B>
 
 1.Tech Umang : https://techumang.netlify.app/
 <br/>
