@@ -127,9 +127,9 @@ Project Works
 Personal Work and Achievement
 -------------------------------
 
-35+ Course Certificate.
+40+ Course Certificate.
 
-15+ Websites Host
+26+ Websites Host
 
 <hr/>
 
