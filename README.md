@@ -276,6 +276,8 @@ https://www.instagram.com/codewithumang/
 25. Umang Coders Blog | https://umangcoder.blogspot.com/
 <br/>
 26. Python | Flask OTP | https://umangmodi.pythonanywhere.com/
+<br/>
+27. StockToday - Blog Websites For Client Live Host | https://stocktoday.co.in/
 
 -----------------------------------------------------------------------------------
 
