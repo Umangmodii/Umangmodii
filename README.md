@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umang Modi</h1>
 <h4 align="center"> Full stack Developer</h4>
-<h4 align="center">Location : Patan Gujarat</h4>
+<h4 align="center">Location : Ahemdabad Gujarat</h4>
 
 <center>
 
